@@ -5,6 +5,7 @@ export {
   default as BreadcrumbJsonLd,
   BreadCrumbJsonLdProps,
 } from './jsonld/breadcrumb';
+export { default as MovieJsonLd, MovieJsonLdProps } from './jsonld/movie';
 export { default as BlogJsonLd, BlogJsonLdProps } from './jsonld/blog';
 export { default as CourseJsonLd, CourseJsonLdProps } from './jsonld/course';
 export {
